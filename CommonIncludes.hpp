@@ -41,7 +41,7 @@
 // At least this is supported by boost 1.65 - 1.70
 #define BOOST_COROUTINES_NO_DEPRECATION_WARNING
 
-#include <boost/bind.hpp>
+#include <boost/bind/bind.hpp>
 #include <boost/asio.hpp>
 #include <boost/asio/ssl.hpp>
 #include <boost/asio/buffer.hpp>
